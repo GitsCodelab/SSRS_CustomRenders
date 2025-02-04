@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenders.CSV\CustomRenders.CSV\bin\Debug\CustomRenders.CSV.dll
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenders.CSV\CustomRenders.CSV\bin\Debug\CustomRenders.CSV.pdb
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenders.CSV\CustomRenders.CSV\obj\Debug\CustomRenders.CSV.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenders.CSV\CustomRenders.CSV\obj\Debug\CustomRenders.CSV.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenders.CSV\CustomRenders.CSV\obj\Debug\CustomRenders.CSV.dll
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenders.CSV\CustomRenders.CSV\obj\Debug\CustomRenders.CSV.pdb
