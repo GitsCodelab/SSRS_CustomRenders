@@ -135,3 +135,10 @@ C:\Users\Administrator\source\repos\CustomRenderAdapters\bin\Debug\ru\Microsoft.
 C:\Users\Administrator\source\repos\CustomRenderAdapters\bin\Debug\zh-Hans\Microsoft.ReportingServices.Modeling.resources.dll
 C:\Users\Administrator\source\repos\CustomRenderAdapters\bin\Debug\zh-Hant\Microsoft.ReportingServices.Modeling.resources.dll
 C:\Users\Administrator\source\repos\CustomRenderAdapters\obj\Debug\CustomRe.287397B2.Up2Date
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenderAdapters\bin\Debug\CustomRenderAdapters.dll
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenderAdapters\bin\Debug\CustomRenderAdapters.pdb
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenderAdapters\obj\Debug\CustomRenderAdapters.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenderAdapters\obj\Debug\CustomRenderAdapters.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenderAdapters\obj\Debug\CustomRe.287397B2.Up2Date
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenderAdapters\obj\Debug\CustomRenderAdapters.dll
+C:\Users\Administrator\source\repos\SSRS_CustomRenders\CustomRenderAdapters\obj\Debug\CustomRenderAdapters.pdb
