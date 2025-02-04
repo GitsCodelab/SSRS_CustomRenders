@@ -15,7 +15,7 @@ namespace CustomRenderAdapters
     public class CsvTables : IRenderingExtension
     {
         #region Common Variables 
-
+         
 
         Encoding _encoding = Encoding.UTF8;
         bool _noHeader;
